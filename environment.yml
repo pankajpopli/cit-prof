@@ -1,0 +1,14 @@
+name: example-environment
+channels:
+  - conda-forge
+dependencies:
+  - python==3.8
+  - numpy==1.20.1
+  - pip==21.2.4
+  - pip:
+    - matplotlib==3.3.4
+    - termcolor==1.1.0
+    - fpdf==1.7.2
+    - PyPDF2==1.26.0
+    - ipywidgets==7.6.4
+    - appmode==0.8.0
