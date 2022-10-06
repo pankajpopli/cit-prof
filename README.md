@@ -1,6 +1,24 @@
-# Citation Profile
+# Citation Profiler v-1.1
 
 The associated code calculates Five Flags and Citation Profile given the citation data.
+
+<br>
+
+<u>For those experienced in using python, jupyterLab and voila.</u>
+
+Source code is availiable at file Calculate-cit-prof.ipynb
+It is a ipython notbeook and requires python and voila installed on your computer.
+
+<br>
+
+<u>For those who want an automated procedure,  kindly download the application package from</u> [Tifr-Hyderabad website.](https://citation-profiler.tifrh.res.in)
+
+
+<br>
+
+<u>Other ways to access application:</u>
+
+[Note:] Not sure how long these webservers will host our application for free.
 
 Usage:
 
