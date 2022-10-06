@@ -1,9 +1,0 @@
-numpy
-pip
-matplotlib
-termcolor
-fpdf
-PyPDF2
-ipywidgets
-appmode
-voila                           
