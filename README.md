@@ -11,7 +11,7 @@ It is a ipython notbeook and requires python and voila installed on your compute
 
 <br>
 
-<u>For those who want an automated procedure,  kindly download the application package from</u> [Tifr-Hyderabad website.](https://citation-profiler.tifrh.res.in)
+<u>For those who want an automated procedure, kindly download the application package from</u> [Tifr-Hyderabad website.](https://citation-profiler.tifrh.res.in)
 
 
 <br>
